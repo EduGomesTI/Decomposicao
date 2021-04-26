@@ -1,0 +1,16 @@
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\Decoponsicao.exe
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\Decoponsicao.deps.json
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\Decoponsicao.runtimeconfig.json
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\Decoponsicao.runtimeconfig.dev.json
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\Decoponsicao.dll
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\ref\Decoponsicao.dll
+C:\dev\Decomposicao\Decoponsicao\bin\Debug\net5.0\Decoponsicao.pdb
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.csprojAssemblyReference.cache
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.AssemblyInfoInputs.cache
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.AssemblyInfo.cs
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.csproj.CoreCompileInputs.cache
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.dll
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\ref\Decoponsicao.dll
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.pdb
+C:\dev\Decomposicao\Decoponsicao\obj\Debug\net5.0\Decoponsicao.genruntimeconfig.cache
